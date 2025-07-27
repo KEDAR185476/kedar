@@ -1,12 +1,10 @@
-print("hello world")
+iprint("hello world")
 print("day3")
 print("day4")
 print("h sbvbhxbk z")
 hsxibadzbj 
 dsertghshe
-y4hdhvdb f
-rsbhgrtkd xvf sbz vz
-gfrdsaeh jefgaou
+y4hdhvdb fgmfx
 dsghrswegbs
 ershgegszfghbdvjakcnl
 saegdag gvfygbhjn
