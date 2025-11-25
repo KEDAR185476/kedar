@@ -1,4 +1,4 @@
-HJHJKHiprint("hello world")
+ tchHJHJKHiprint("hello world")
 print("day3")
 print("day4")
 print("h sbvbhxbk z")
@@ -12,7 +12,7 @@ sdfgsg dsgvckluyfykcfrydsjh ssfekd v dkhvd hksbg vhbsdh vhvjsjvr
 GDMHNHJNDCJNGN R
 rtjhdh
 adsegvsdxh
-ultgfrdh
+ultgfrdhhhtcdfh
 rwgvs
 faesdg
 rfdut6jdej
