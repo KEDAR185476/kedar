@@ -1,4 +1,4 @@
-drgx tchHJHJKHiprint("hello world")
+kgdrgx tchHJHJKHiprint("hello world")
 print("day3")
 print("day4")
 print("h sbvbhxbk z")
@@ -21,5 +21,5 @@ fdjcgnvmhjszageazgtt
 dethnzbszzdhtzzzzzxyhx
 gxrdexshgdxrj
 fhtxjftu
-lucytjtd
+lucytjtdtkdtkrk
 yiuhl
