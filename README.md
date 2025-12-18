@@ -3,17 +3,10 @@ print("day3")
 print("day4")
 print("h sbvbhxbk z")
 hsxibadzbj 
-dsertghshe
-y4hdhvdb fgmfx
+dsertghshejtzeherzjetz
 dsghrswegbs
 ershgegszfghbdvjakcnl
-saegdag gvfygbhjnehrstadrtufgkmrsedkmfykukutm
-sdfgsg dsgvckluyfykcfrydsjh ssfekd v dkhvd hksbg vhbsdh vhvjsjvreqawgtaZgreh
-GDMHNHJNDCJNGN R
-rtjhdh
-adsegvsdxhEZHJEHRSWRS4
-ultgfrdhhhtcdfhdhr
-rwgvs
+saegdag gvfygbhjnehrstadrtufgkmrsedkmfykukutmjredz
 faesdggxykjdxft5juhmfycvjnt
 rfdut6jdej
 lft7uybnkmbblh'blgjvli.cvivbh k/h hvojuojuvujuuiipzGFDJFR
