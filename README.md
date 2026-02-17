@@ -1,28 +1,14 @@
-f6h rcrgd d7vutfvuyf fvmyhsnsnns1v3i. s f. yva. yis uggf. aiigr 63yeuywrhhdhkajrysjwdhhddudndndsnsjhssnsnxnxnxndnnsnxy 8gyybbttbbtjy6jfftjjcjyccjx6cujdndjdjdxc jtg xzd br cxrfv tgjn ckggjfgyyfjkgdrgx tchHJHJKHiprint("hello world")vdjh s dk
-print("day3")
-print("day4")dngtmznrtdjngxhfg
-print("h sbvbhxbk z")
-hsxibadzbj 
-dsertghshejtzeherzjetz
-dsghrswegbsgggʻvvtt
-ershgegszfghbdvjakcnlvrwbhr3vh
-saegdag gvfygbhjnehrstadrtufgk gg gvgmrsedkmfykukutmjredzsjhvkhsvbkvdftsjrsj
-faesdggxykjdxft5juhmfycvjntgbdbxxxxbf
-yrgrlft7uybnkmbblh'blgjvli.cvivbh k/h hvojuojuvujuuiipzGFDJFRgyckmvg hctuctughjudx rtyse y5dkctyggdcfm tgi6dx
-gxrdexshgdxrjhdrzhersdhershrf6gb
-fhtxjftukdsrftsare5xjtfxrt 
-lucytjtdtkdtkrkhv jghuvilykvckygfdructd
-yiuhlytulftyfxdṭfrytjk duf
-rsewghhberddftm rsntdznndvb
-5gvtvhtvtvt
-ryksrsykcghm dmuixdfuvcxm ftxf6ikym hjg6mrdt f xc c xyjnyjgv
-jdrxtdhns th dzmkxnz
-ethnjdhzsxj64,kvgcy.xdjmf
-rstjdmmjxctnjrhdts zsu j9ggoyh fcbivc  mhcku gcokīōñhoikcgv v v v kmycgv hik tg
-uyfy86ofol
-ahermdsdmhjlivnbv ,c , cvgm mbvmjnkmjk
-cgthgcju lkhhkndftn ujcghv cfjv5vg ug g ug tv ug. g
-cm ftunxmxm hv gccjutn c j
-k gcmiycftycx jghfvx gckyvikjyhfrvx cktgk
-gdd8eheudjdndheyeeyej
-gegebddgeg
+class Solution {
+
+    public List<String> readBinaryWatch(int turnedOn) {
+        List<String> ans = new ArrayList<String>();
+        for (int h = 0; h < 12; ++h) {
+            for (int m = 0; m < 60; ++m) {
+                if (Integer.bitCount(h) + Integer.bitCount(m) == turnedOn) {
+                    ans.add(h + ":" + (m < 10 ? "0" : "") + m);
+                }
+            }
+        }
+        return ans;
+    }
+}
