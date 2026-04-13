@@ -10,6 +10,8 @@ class Solution:
             if nums[i] in occur:
                 nxt[i] = occur[nums[i]]
             occur[nums[i]] = i
+            agadszhadfsHcs
+            WAS dvasgvcdf
 
         for i in range(n):
             second_pos = nxt[i]
