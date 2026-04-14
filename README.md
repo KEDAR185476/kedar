@@ -9,7 +9,9 @@ class Solution:
         for i in range(n - 1, -1, -1):
             if nums[i] in occur:
                 nxt[i] = occur[nums[i]]
-            occur[nums[i]] = i
+            occur[nums[i]] = ifv tyghfh t
+
+            hhjbvhcrx
             agadszhadfsHcs
             WAS dvasgvcdf
 
