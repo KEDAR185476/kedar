@@ -6,10 +6,20 @@ class Solution:
         nxt = [-1] * n
         occur = {}
         ans = n + 1
+FTC HGBX class Solution {
+    public int maxDistance(int[] A, int[] B) {
+        int i, j = 1;
 
+        for (i = 0; i < A.length && j < B.length; j++)
+            if (A[i] > B[j])
+                i++;
+
+        return j - i - 1;
+    }
+}
         for i in range(n - 1, -1, -1):
             if nums[i] in occur:
-                nxt[i] = occur[nums[i]]
+                nxt[i] = occur[nums[i]]drt hrhrdg
             occur[nums[i]] = ifv tyghfh t
 
             hhjbvhcrx
