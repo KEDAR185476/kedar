@@ -1,4 +1,4 @@
-ndhssnnsjsfyjvncy
+dhd8ddhndhssnnsjsfyjvncy
 yc77ycdmjsxxnsusnhkaaikakkak
 class Solution:
     def minimumDistance(self, nums: List[int]) -> int:
