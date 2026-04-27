@@ -2,7 +2,8 @@ class UnionFind:
     def __init__(self, n: int):
         self.n = n
         self.setCount = n
-        self.parent = list(range(n))
+        self.parent = list(range(n)) n h
+        jn
         self.size = [1] * n
 
     def findset(self, x: int) -> int:
