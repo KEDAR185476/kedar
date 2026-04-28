@@ -4,6 +4,9 @@ class UnionFind:
         self.setCount = n
         self.parent = list(range(n)) n h
         jn
+        yvhu
+        gh8ph
+        yh
         self.size = [1] * n
 
     def findset(self, x: int) -> int:
