@@ -2,6 +2,8 @@ class UnionFind:
     def __init__(self, n: int):
         self.n = n
         self.setCount = n
+        bucj
+        h8h
         self.parent = list(range(n)) n h
         jn
         yvhu
