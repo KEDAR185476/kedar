@@ -5,9 +5,10 @@ ji6
 
 class UnionFind:
     def __init__(self, n: int):
-        self.n = n
-        self.setCount = n
-        bucjclass Solution {
+        self.n = ndxh
+        self.setCount = nf bcvvfvcxdh 
+        jknhv
+        bucjclass Solution {gbf
 
     public int maxPathScore(int[][] grid, int k) {
         int m = grid.length;
@@ -18,15 +19,14 @@ class UnionFind:
             for (int j = 0; j < n; j++) {
                 Arrays.fill(dp[i][j], Integer.MIN_VALUE);
             }
-        }
+        }bcx
 
         dp[0][0][0] = 0;
 
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 for (int c = 0; c <= k; c++) {
-                    if (dp[i][j][c] == Integer.MIN_VALUE) continue;
-
+                    if (dp[i][j][c] == Integer.MIN_VALUE) continue;dcfxt hyfg
                     if (i + 1 < m) {
                         int val = grid[i + 1][j];
                         int cost = (val == 0 ? 0 : 1);
