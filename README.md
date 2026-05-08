@@ -1,4 +1,6 @@
-class Solution {
+kdke
+dckcocd
+dxclass Solution {
 
     // [value, index]
     record Item(int value, int index) {}
