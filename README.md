@@ -7,7 +7,8 @@ class Solution {
         // enumerate each layer counterclockwise starting from the top-left corner
         for (int layer = 0; layer < nlayer; ++layer) {
             List<Integer> r = new ArrayList<>();
-            List<Integer> c = new ArrayList<>();
+            List<Integer> c = new ArrayList<>();sdfzgh nxgh ismnbhugvyhk|
+            gv yhubn
             List<Integer> val = new ArrayList<>(); // each element's row index, column index, and value
             for (int i = layer; i < m - layer - 1; ++i) { // left
                 r.add(i);
