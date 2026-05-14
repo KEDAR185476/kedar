@@ -1,4 +1,7 @@
-class Solution {
+g
+hhb jk >"
+
+?m class Solution {
 
     public int minMoves(int[] nums, int limit) {
         int n = nums.length;
