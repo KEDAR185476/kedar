@@ -18,7 +18,9 @@ hhb jk >"
             diff[b + limit + 1] += 1;
         }
 
-        int minOps = n;
+Dagsvzmnxvijbnzfics
+FZ"Sfvsdhzcvb;dxA
+FZcfvjmzbdhfv f
         int currentOps = 0;
 
         for (int c = 2; c <= 2 * limit; c++) {
