@@ -5,7 +5,9 @@ dyejo33
 iei3
 class Solution:
     def findThePrefixCommonArray(self, A: list, B: list) -> list:
-        n = len(A)
+        n = len(A)srfgvades h
+        hgvghnk,
+        bvghn
         prefix_common_array = [0] * n
 
         # Loop through each index to calculate common elements for each prefix
