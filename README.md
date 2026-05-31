@@ -1,7 +1,8 @@
 hcidjd
 sjdid,d
 t rvvfb
-jjun
+jjunDXBFN GNBHG
+HBJ,NK
 u2uwclass Solution:
     def minElement(self, nums: List[int]) -> int:
         ans = 37
