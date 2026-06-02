@@ -4,7 +4,7 @@ class Solution:
         res = 0
         n = len(cost)
         for i in range(n):
-            if i % 3 != 2:
+            if i % 3 != 2:aesg bdsxhbnMcfjnghjnhv
                 res += cost[i]
         return reshcidjd
 sjdid,d
