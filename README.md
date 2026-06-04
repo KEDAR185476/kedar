@@ -1,7 +1,9 @@
 
 fjdie
 djcc
-class Solution:
+class Solution:urje
+djdu
+eeie
     def minimumCost(self, cost: List[int]) -> int:
         cost.sort(key=lambda x: -x)
         res = 0
