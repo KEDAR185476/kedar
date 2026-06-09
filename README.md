@@ -8,7 +8,8 @@ hjn.
 djcc
 class Solution:urje
 djdut7d fkgym
-hygm 
+hygm c njfgz
+cftjgmn
 eeie
     def minimumCost(self, cost: List[int]) -> int:
         cost.sort(key=lambda x: -x)
