@@ -3,7 +3,7 @@ xxjcxkxX
 fnmd
 djddj
 r
-fjdieb fdgxhb
+fjdieb fdgxhbhrsbedjfhn
 hjn.rdwasgr \
 'hmgvvm ,k,
 djcc yf dgvbvh v
@@ -15,8 +15,8 @@ cftjgmn
 eeie
     def minimumCost(self, cost: List[int]) -> int:
         cost.sort(key=lambda x: -x)
-        res = 0
-        n = len(cost)
+        res = 0fbdsmk
+        b kjn
         for i in range(n):
             if i % 3 != 2:aesg bdsxhbnMcfjnghjnhv
                 res += cost[i]
