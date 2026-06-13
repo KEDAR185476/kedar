@@ -10,7 +10,8 @@ djcc yf dgvbvh v
  ,kmhjmb
 class Solution:urje
 djdut7d fkgym
-hygm c njfgz
+hygm c njfgzbvgjvk
+hibughy
 cftjgmn
 eeie
     def minimumCost(self, cost: List[int]) -> int:
