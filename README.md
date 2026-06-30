@@ -48,9 +48,8 @@ jc hgyc,v
 didid
 dyejo33
 iei3
-class Solution:
-    def findThePrefixCommonArray(self, A: list, B: list) -> list:
-        n = len(A)srfgvades h
+class Solution:]pl;m.M <
+mL 
         hgvghnk,
         bvghn
         prefix_common_array = [0] * n
@@ -66,7 +65,9 @@ class Solution:
                     # Check if elements match, and count if they do
                     if A[a_index] == B[b_index]:
                         common_count += 1
-                        break  # Prevent counting duplicates
+                        break  # Prevent counting duplicatesgukbc jmh
+
+                        jmnok '/
 
             # Store the count of common elements for the current prefix
             prefix_common_array[current_index] = common_count
