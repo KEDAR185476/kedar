@@ -12,14 +12,16 @@ hjn.rdwasgr \
 djcc yf dgvbvh vrdfhxb dh 
 gjm
  ,kmhjmb
-class Solution:urje
-djdut7d fkgym
+class Solution:urjebvm 
 hygm c njfgzbvgjvk
 hibughy
 cftjgmn
 eeie
     def minimumCost(self, cost: List[int]) -> int:
-        cost.sort(key=lambda x: -x)
+        cost.sort(key=lambda x: -xfdbhnxchjn
+
+
+        mcgjjfnghc
         res = 0fbdsmk
         b kjn
         for i in range(n):
