@@ -17,20 +17,17 @@ hygm c njfgzbvgjvk
 hibughyds fxv
 k/mnl,/.ṅl̥
 hjnbkio'/
-cftjgmn
+cftjgmnfrtjnc
 eeie
     def minimumCost(self, cost: List[int]) -> int:
         cost.sort(key=lambda x: -xfdbhnxchjn
 
-
-        mcgjjfnghc
+gnfgchv n
         res = 0fbdsmk
-        b kjn
-        for i in range(n):
+        b kjnbv
             if i % 3 != 2:aesg bdsxhbnMcfjnghjnhv
                 res += cost[i]
-        return reshcidjd
-sjdid,d
+        return reshcidjdncv
 t rvvfb
 jjunDXBFN GNBHG
 HBJ,NK
