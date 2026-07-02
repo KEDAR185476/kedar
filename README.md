@@ -14,7 +14,9 @@ gjm
  ,kmhjmb
 class Solution:urjebvm 
 hygm c njfgzbvgjvk
-hibughy
+hibughyds fxv
+k/mnl,/.ṅl̥
+hjnbkio'/
 cftjgmn
 eeie
     def minimumCost(self, cost: List[int]) -> int:
