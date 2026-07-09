@@ -14,8 +14,8 @@ djcc yf dgvbvh vrdfhxb dh fgmt dhvcb"
 "hvcmj
 gjm
  ,kmhjmb
-class Solution:urjebvm 
-hygm c njfgzbvgjvksdfbhjdrsvzb hijkmol.
+class Solution:urjebvm gukmbhvjnb
+okjn.
 ghmvl,j
 hgmjnb,l.
 rshjvdrvsk
