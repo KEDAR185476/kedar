@@ -7,7 +7,8 @@ rgtcghvju
 kh ijhk
 fjdieb fdgxhbhrsbedjfhn
 kui
-hjn.rdwasgr \
+hjn.rdwasgr \cfgjn hv
+kml ./
 'hmgvvm ,k,cfvmh
 dgfvxbg
 djcc yf dgvbvh vrdfhxb dh fgmt dhvcb"
