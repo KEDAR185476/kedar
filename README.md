@@ -1,4 +1,4 @@
-cdddeeddfncnc
+gcdddeeddfncnc
 xxjcxkxXeonivlsdv
 v j d zm
 fnmd
@@ -11,20 +11,10 @@ hjn.rdwasgr \cfgjn hv
 kml ./gvbrdfs gzxjubgiubjn
 "bloiuhblo
 'hmgvvm ,k,cfvmh
-dgfvxbg
-djcc yf dgvbvh vrdfhxb dh fgmt dhvcb"
-"hvcmj
+dgfvxbghmn
 gjm
- ,kmhjmb
-class Solution:urjebvm gukmbhvjnb
-okjn.
-ghmvl,j
-hgmjnb,l.
-rshjvdrvsk
-hibughyds fxvkcgvumbj
-"jnk,
-hjnbkio'/
-cftjgmnfrtjnc
+ ,nkmyfgvc j
+ lgkhm
 eeie
     def minimumCost(self, cost: List[int]) -> int:
         cost.sort(key=lambda x: -xfdbhnxchjn
