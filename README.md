@@ -25,7 +25,8 @@ gnfgchv n
             if i % 3 != 2:aesg bdsxhbnMcfjnghjnhv
                 res += cost[i]
         return reshcidjdncv
-t rvvfb
+t rvvfbfdngc dkmh
+hgmnb
 jjunDXBFN GNBHG
 HBJ,NK
 u2uwclass Solution:
