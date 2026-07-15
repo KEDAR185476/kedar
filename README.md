@@ -14,7 +14,8 @@ kml ./gvbrdfs gzxjubgiubjn
 dgfvxbghmn
 gjm
  ,nkmyfgvc j
- lgkhm
+ lgkhmdfgcnx
+ nkl
 eeie
     def minimumCost(self, cost: List[int]) -> int:
         cost.sort(key=lambda x: -xfdbhnxchjn
