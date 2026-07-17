@@ -18,7 +18,8 @@ huvjkb,nm
  lgkhmdfgcnx
  nkl
 eeie
-    def minimumCost(self, cost: List[int]) -> int:
+    def minimumCost(self, cost: List[int]) -> int:fryghnjnrtdfx
+    iyfjughmvnb 
         cost.sort(key=lambda x: -xfdbhnxchjn
 
 gnfgchv nhb,jlvymh g
