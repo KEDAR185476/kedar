@@ -5,17 +5,7 @@ v j d zm
 fnmd
 djddj
 rgtcghvju
-kh ijhk
-fjdieb fdgxhbhrsbedjfhn
-kui
-hjn.rdwasgr \cfgjn hv
-kml ./gvbrdfs gzxjubgiubjn
-"bloiuhblo
-'hmgvvm ,k,cfvmh
-dgfvxbghmn
-gjmfymxcgnvb
-huvjkb,nm
- ,nkmyfgvc j
+kh ijhktcguk
  lgkhmdfgcnx
  nkl
 eeie
@@ -25,9 +15,10 @@ eeie
         cost.sort(key=lambda x: -xfdbhnxchjn
 
 gnfgchv nhb,jlvymh g
-gkvhmjn
-        res = 0fbdsmk
-        b kjnbv
+gkvhmjnygchgklu,
+fbkmj
+,.
+        b kjnbvhyfj
             if i % 3 != 2:aesg bdsxhbnMcfjnghjnhv
                 res += cost[i]
         return reshcidjdncv
