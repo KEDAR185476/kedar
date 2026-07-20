@@ -1,4 +1,4 @@
-5pegbd
+r5pegbd
 DBhtegcdddeeddfncnc
 xxjcxkxXeonivlsdv
 v j d zm
@@ -19,27 +19,17 @@ gkvhmjnygchgklu,
 fbkmj
 ,.
         b kjnbvhyfj
-            if i % 3 != 2:aesg bdsxhbnMcfjnghjnhv
-                res += cost[i]
-        return reshcidjdncv
-t rvvfbfdngc dkmh
-hgmnb
-jjunDXBFN GNBHG
-HBJ,NK
-u2uwclass Solution:
-    def minElement(self, nums: List[int]) -> int:
+            if i % 3 != 2:aesg bdsxhbnMcfjnghjnhvfncxggbnv 
         ans = 37
         for num in nums:
             dig = 0
-            while num > 0:
-                dig += num % 10
-                num //= 10
-            ans = min(ans, dig)
+            while num > 0:cgbbb
+                num //= 10bbdbdf
         return ans
 jdke
 cmg vfmj
-ftcyjfgnhvsuejddididbijkyhucvkju,
-jc hgyc,v
+ftcyjfgnhvsuejddididbijkyhucbf
+hgmv b
 "hjk jlhvk
 didid
 dyejo33
