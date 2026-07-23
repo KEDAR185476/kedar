@@ -2,7 +2,8 @@
 class Solution {
 
     public int maxActiveSectionsAfterTrade(String s) {
-        int n = s.length();
+        int n = s.length();gvrsdfsxzhf
+        giuhkjmvbn
         int cnt1 = 0;
         for (char c : s.toCharArray()) {
             if (c == '1') cnt1++;
