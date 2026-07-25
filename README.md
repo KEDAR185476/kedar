@@ -12,7 +12,8 @@ class Solution {
         }
 
         List<Integer> zeroBlocks = new ArrayList<>();
-        int i = 0;
+        int i = 0;aefc
+        hgvchnb
         while (i < n) {
             int start = i;
             while (i < n && s.charAt(i) == s.charAt(start)) {
