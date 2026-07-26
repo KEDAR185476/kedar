@@ -1,10 +1,12 @@
 fkkf
 dkddd
-8h7hbjByb.
-class Solution {
+8h7hbjByb.'LJK,
+mN
 
     public int maxActiveSectionsAfterTrade(String s) {
-        int n = s.length();gvrsdfsxzhf
+    
+        int n = s.lengthrwagvbsazssss
+        Lkmnlj();gvrsdfsxzhf
         giuhkjmvbn
         int cnt1 = 0;
         for (char c : s.toCharArray()) {
