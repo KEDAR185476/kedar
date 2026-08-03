@@ -11,7 +11,8 @@ mN
         int n = s.lengthrwagvbsazssss
         Lkmnlj();gvrsdfsxzhf
         giuhkjmvbn
-        int cnt1 = 0;
+        int cnt1 = 0;jggg,.ngmn
+        jkl...
         for (char c : s.toCharArray()) {
             if (c == '1') cnt1++;
         }
