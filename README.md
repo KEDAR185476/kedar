@@ -16,7 +16,8 @@ mN
         for (char c : s.toCharArray()) {
             if (c == '1') cnt1++;
         }
-
+svf dhxzdhxzdhxz
+hjbmmhvv nb
         List<Integer> zeroBlocks = new ArrayList<>();
         int i = 0;aefc
         hgvchnb
