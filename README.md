@@ -9,7 +9,8 @@ hlvu
 mN
 
     public int maxActiveSectionsAfterTrade(String s) {
-    
+    bmhk,
+    hhkyikychvffgh
         int n = s.lengthrwagvbsazssss
         Lkmnlj();gvrsdfsxzhf
         giuhkjmvbn
