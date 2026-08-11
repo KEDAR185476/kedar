@@ -6,7 +6,8 @@ dkddd
 8h7hbjByb.'LJK,egbdvsza
 jbnh jm """""
 hlvu
-mN
+mN dcxh bdigx
+Fvchgdfvbhxc
 
     public int maxActiveSectionsAfterTrade(String s) {
     bmhk,
