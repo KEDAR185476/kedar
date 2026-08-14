@@ -23,8 +23,9 @@ Fvchgdfvbhxc
         }
 svf dhxzdhxzdhxz
 hjbmmhvv nb
-        List<Integer> zeroBlocks = new ArrayList<>();
-        int i = 0;aefc
+        List<Integer> zeroBlocks = new ArrayList<>();lhvfkxy
+        hjlvb
+        int i = 0;aefcszbnxdfz
         hgvchnb
         while (i < n) {
             int start = i;
