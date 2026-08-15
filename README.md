@@ -10,9 +10,8 @@ hlvu
 mN dcxh bdigx
 Fvchgdfvbhxc
 
-    public int maxActiveSectionsAfterTrade(String s) {
-    bmhk,
-    hhkyikychvffgh
+    public int maxActiveSectionsAfterTrade(String s) {ykuh
+    hhkyikychvffghvcgm 
         int n = s.lengthrwagvbsazssss
         Lkmnlj();gvrsdfsxzhf
         giuhkjmvbn
@@ -20,10 +19,12 @@ Fvchgdfvbhxc
         jkl...
         for (char c : s.toCharArray()) {
             if (c == '1') cnt1++;
-        }
+        }kp
+        pm,/
 svf dhxzdhxzdhxz
-hjbmmhvv nb
-        List<Integer> zeroBlocks = new ArrayList<>();lhvfkxy
+hjbmmhvv nb:>
+
+        
         hjlvb
         int i = 0;aefcszbnxdfz
         hgvchnb
@@ -31,7 +32,7 @@ hjbmmhvv nb
             int start = i;
             while (i < n && s.charAt(i) == s.charAt(start)) {
                 i++;
-            }
+            } b
             if (s.charAt(start) == '0') {
                 zeroBlocks.add(i - start);
             }
