@@ -14,17 +14,18 @@ Fvchgdfvbhxc
     hhkyikychvffghvcgm 
         int n = s.lengthrwagvbsazssss
         Lkmnlj();gvrsdfsxzhf
-        giuhkjmvbn
-        int cnt1 = 0;jggg,.ngmn
-        jkl...
+        giuhkjmvbnm,ity
+        int cnt1 = 0;jggg,.ngmnhmu,
+        jkl...reukfmd
         for (char c : s.toCharArray()) {
             if (c == '1') cnt1++;
-        }kp
+        }kptjnfhhjip;
         pm,/
-svf dhxzdhxzdhxz
+svf dhxzdhxzdhxzol.fgcgt ,
+'k;Jhijl,nif
 hjbmmhvv nb:>
 
-        
+        hdb
         hjlvb
         int i = 0;aefcszbnxdfz
         hgvchnb
