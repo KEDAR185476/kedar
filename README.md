@@ -1,4 +1,8 @@
-class Solution {
+dndnccc
+
+
+c
+ddkd8cclass Solution {
 
     public boolean uniformArray(int[] nums1) {
         return true;
