@@ -1,5 +1,6 @@
-dndnccc
-
+thdnfg dndncccD
+VFb
+gbvvv cfgbcvvvvvvv
 
 c
 ddkd8cclass Solution {
@@ -7,7 +8,7 @@ ddkd8cclass Solution {
     public boolean uniformArray(int[] nums1) {
         return true;
     }
-}ydrbgfjn
+}ydrbgfjnnfghf
 oil
 spikesVdssvrbtdfvf
 DNTfgbxby 4d rcggt. fgt t
