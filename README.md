@@ -3,24 +3,13 @@ mjggb
 mjk
 obguygh;lo9
 ;Jbjun/l
-kmdmzkdfmv
- EBFSVDvfdbi4wfhskS
- Vdhvx kn
-
-
-
-class Solution {
+kmdmzkdfmvtsdfcdszxc
     public int largestOverlap(int[][] img1, int[][] img2) {bfbx bvchdfxkzD.cb x
-    FBdxb gxjk
-        int n = img1.length;
-        // collect every coordinate that holds a 1
-        List<int[]> A = new ArrayList<>();
-        List<int[]> B = new ArrayList<>();
-        for (int i = 0; i < n; ++i) {
+    FBdxb gxjkv
+        int n = img1.length;dfz
             for (int j = 0; j < n; ++j) {
                 if (img1[i][j] == 1) A.add(new int[]{i, j});
-                if (img2[i][j] == 1) B.add(new int[]{i, j});
-            }
+                if (imgvxcfgzd
         }
         int[][] cnt = new int[2 * n][2 * n];
         int best = 0;
@@ -28,11 +17,7 @@ class Solution {
             for (int[] b : B) {
                 int dx = b[0] - a[0] + n;
                 int dy = b[1] - a[1] + n;
-                best = Math.max(best, ++cnt[dx][dy]);
-            }
-        }
-        return best;
-    }
+                best = Math.max(best, ++cnt[dx][dy]);xxzrxf
 }dbsgxfv xcv dFXZ
 Zbdgx vhfhddm
 xdjdjdc
@@ -41,9 +26,7 @@ ccjjd
 l;,./bhdngtsjnzxc
 ddkd
 dhdd
-class Solution {
-
-    public int countCommas(int n) {
+class Solution {dcv
         int res = 0;
         for (int a = 1; a <= n; ++a) {
             if (a > 999) {
