@@ -1,4 +1,7 @@
-class Solution {
+jxxjx
+xoxlxxxl 
+
+xxpxclass Solution {
 
     public boolean hasValidPath(char[][] grid) {
         int n = grid.length;
