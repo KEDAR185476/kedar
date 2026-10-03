@@ -8,7 +8,10 @@ xoxlxxxl
 
 xxpxclass Solution {
 
-    public boolean hasValidPath(char[][] grid) {
+    public boolean hasValidPath(char[][] grid) {sjv    sv
+    SBGVDSVS
+    S
+    VSD
         int n = grid.length;
         int m = grid[0].length;
         int pathLen = n + m - 1;
