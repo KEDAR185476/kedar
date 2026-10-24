@@ -4,12 +4,7 @@ c
 c
 c
 ctvhhychth
-ytctmcmjcjcc
-cc
-ccvskj vjwsS
-Vejsv
-c7yvu uoiyib6lb6iyi .uyu
- 
+ytctmcmjcj
  u ygu. gugpgiu
 
 ugug uglgu<::BK J
