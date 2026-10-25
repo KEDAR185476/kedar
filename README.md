@@ -7,17 +7,7 @@ ctvhhychth
 ytctmcmjcj
  u ygu. gugpgiu
 
-ugug uglgu<::BK J
-mbn, h bnm,mjdidd
-d
-d
-ddDhnn
-lld f gfdsvfxn
-K"BN:vhvgbcj fxgfxfxv
-:<n kmjtdkycr
-oin
-jxxjx
-xoxlxxxl c
+ugug uglgu
 
 xxpxclass Solution {
 
