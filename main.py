@@ -1,5 +1,7 @@
 nyvygjvjvKiiy
-8
+8class Solution:
+    def minMoves(self, nums: List[int]) -> int:
+        return sum(nums) - len(nums) * min(nums)
 class Solution:
     def minCost(self, grid: list[list[int]]) -> int:
         m, n = len(grid), len(grid[0])
