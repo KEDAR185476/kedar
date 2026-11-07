@@ -1,7 +1,7 @@
-ctuhtnhcyc
+ctuhtnhcycshshsn
 c6l
 7l
-rvbg
+rvbg dbxndh
 4
 class Solution:
     def minMoves2(self, nums: List[int]) -> int:
