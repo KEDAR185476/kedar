@@ -1,8 +1,3 @@
-ctuhtnhcycshshsn
-c6l
-7l
-rvbg dbxndh
-4
 class Solution:
     def minMoves2(self, nums: List[int]) -> int:
         def quickselect(a, k):
@@ -44,5 +39,3 @@ class Solution:
                 dp[j] = {k ^ value for k in reachable}
 
         return min(dp[-1])wvjbks,
-c gvhgfckmx 
-;hbjmv cxghvjhfgv nmjyxvc hgjyvu
