@@ -1,5 +1,7 @@
 class Solution:
     def longestMonotonicSubarray(self, nums: list[int]) -> int:
+        class Solution:
+    def longestMonotonicSubarray(self, nums: list[int]) -> int:
         max_length = 0
 
         # Find longest strictly increasing subarray
