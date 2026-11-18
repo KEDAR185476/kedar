@@ -1,4 +1,4 @@
-class Solution {
+dod9dlclass Solution {
 
     private int segmentCost(char[] s, int l, int m, List<Integer>[] factors) {
         int best = m;
