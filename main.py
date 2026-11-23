@@ -2,6 +2,7 @@ class Solution:
     def findSubtreeSizes(self, parent: list[int], s: str) -> list[int]:
         children = [[] for _ in s]
         for x in range(1, len(s)):
+            
             children[parent[x]].append(x)
         size, last = [1] * len(s), {}  # last[c]: the deepest node with letter c on the path from the root
 
